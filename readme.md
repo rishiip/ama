@@ -1,14 +1,21 @@
 # Ask me anything!
 
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
+Hello There!
+
+Thanks a lot for getting in touch with me! This is my AMA.
 
 I get a lot of questions by email. This way anyone can read the answer!
-
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
----
+## [Ask a question](../../issues/new) :question: | [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden) :eyes:
 
-<div align="center">Huge thanks to &nbsp;<a href="https://www.miles.in"><img src="https://user-images.githubusercontent.com/170270/34912034-3332ae4c-f8d6-11e7-8569-65b11486d003.png" width="80"></a>&nbsp; for sponsoring my open source work on <a href="https://www.patreon.com/sindresorhus">Patreon</a>.</div>
+## Is Email still Ok?
+
+Yes, its perfectly fine. But I am always on GitHub, and respond faster here. And with the amount of spam these days, its easy to miss an important email such as yours :neutral_face: !
+
+If you prefer email, do not hesitate to drop your query either [publicly](mailto:rishi.pithadiya+ama@gmail.com) or [anonymously](mailto:rishi.pithadiya+anonama@gmail.com). I will post them here for you (redacting as much details as I can erring as a human).
+
+Note: Much of this is automated with my mail filters, so the subject line will always be public (including anon mails).
 
 ---
 
